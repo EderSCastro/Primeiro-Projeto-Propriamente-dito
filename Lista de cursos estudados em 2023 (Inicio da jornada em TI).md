@@ -1,0 +1,22 @@
+# Lista de cursos estudados em 2023 (Inicio da jornada em TI) :books:
+
+- Introdução a Informática com Word, Power Point e Excel (Exigido em alguns concursos)
+- Pensamento Computacional
+- Arquitetura de Computadores
+- Paradigmas de Linguagem de Programação em Python
+- Introdução à Segurança da Informação
+- Processos de Desenvolvimento de Software
+- Photoshop
+- Tráfego Pago
+- Marketing Digital
+- Versionamento de Código
+- Git e Github
+- HTML
+- CSS
+- Javascript
+- Java
+- Desenvolvimento de Jogos
+- Desenvolvimento de jogos mobile IOS
+- Cibersegurança
+- Carreira em Inteligência Artificial
+- Carreira Internacional em Tecnologia da Informação
